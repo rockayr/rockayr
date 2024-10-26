@@ -4,35 +4,20 @@
 
 ---
 
-## 👋 ¡Hola! Soy Ayrton
+👋 Welcome to my GitHub profile! I am a skilled software engineer and data analyst specializing in commercial data analysis, leveraging my expertise to drive business insights and support strategic decision-making. My work involves developing tools and frameworks that streamline data management, increase transparency, and empower teams to make data-informed decisions.
 
-Ingeniero de Software con sólida experiencia en análisis de datos comerciales y liderazgo en desarrollo de gestión empresarial. A lo largo de mi carrera, he trabajado en la implementación de soluciones tecnológicas que optimizan la toma de decisiones y potencian el rendimiento de equipos comerciales. Mi enfoque se centra en transformar datos en información valiosa que guíe estrategias comerciales, logrando un impacto directo en la eficiencia y los resultados empresariales.
+### About Me
+With a background in software engineering, I have dedicated my career to building and enhancing data management solutions that facilitate efficient and accurate performance tracking. My current role involves leading commercial data analytics projects, where I support sales and business management teams in improving key performance indicators (KPIs) through dynamic and reliable dashboards and reports. By integrating technical knowledge with a strong understanding of business metrics, I ensure that data is both accessible and actionable.
 
-Actualmente, me desempeño como **Especialista en Análisis de Datos Comerciales** en el área de inteligencia comercial, donde desarrollo herramientas que facilitan la visualización de KPIs y el análisis de métricas. Estas herramientas permiten a los equipos tomar decisiones informadas, respaldadas por datos y en tiempo real.
+### 🚀 Technologies & Tools
+I am proficient in various web technologies and data presentation tools that allow for the seamless delivery of information across platforms:
 
----
+- **Web Technologies:** JavaScript, TypeScript, Angular, Spring Boot, .NET
+- **Data Presentation & Visualization:** Power BI, Tableau, Highcharts
+- **Database Management:** Oracle, SQL Server, MySQL
+- **Application Servers:** JBoss EAP 7, WebLogic, WildFly, Tomcat
+- **Version Control & Build Tools:** Git, Maven
+- **Other Tools:** Python (data analysis), Excel (advanced analytics), and various data pipeline tools
 
-## 🚀 Tecnologías y Herramientas
-
-### Desarrollo Web
-- **Frontend:** HTML5, CSS3, JavaScript, Angular 7, React Native
-- **Backend:** Java, Spring Boot, .Net, Node.js
-- **Bases de Datos:** Oracle, SQL Server, MySQL
-- **Servidores de Aplicaciones:** JBoss, Weblogic, Wildfly
-
-### Análisis de Datos
-- **Herramientas de Visualización:** Power BI, Tableau, Grafana
-- **Lenguajes de Análisis:** Python, SQL
-- **Gestión de Versiones:** Git, GitHub
-
-### Habilidades Clave
-- Creación de dashboards y reportes interactivos para el análisis de KPIs y métricas comerciales
-- Implementación de soluciones escalables que optimizan la gestión y presentación de datos
-- Integración de tecnologías web en proyectos de análisis y visualización de datos
-
----
-
-## 💡 Sobre Mi Trabajo
-
-Mi pasión es integrar tecnología y análisis para crear soluciones de negocio que impulsen el rendimiento. Creo firmemente en el valor de los datos como herramienta para la toma de decisiones y en el poder de una presentación clara y visual. Si buscas colaboración en proyectos relacionados con el desarrollo de software, análisis de datos o gestión de indicadores comerciales, ¡no dudes en contactarme!
-
+### Let's Connect!
+I'm open to networking with professionals interested in data analytics, business intelligence, and software development. Feel free to reach out if you want to discuss industry trends, tools, or collaboration opportunities.
